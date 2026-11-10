@@ -1,0 +1,18 @@
+{
+  "version": "chunking-v1",
+  "tokenizer_model": "Qwen/Qwen3-Embedding-8B",
+  "tokenizer_revision": "1d8ad4ca9b3dd8059ad90a75d4983776a23d44af",
+  "max_chunk_tokens": 400,
+  "fixed_overlap_tokens": 50,
+  "semantic_min_tokens": 120,
+  "semantic_breakpoint_percentile": 85,
+  "semantic_buffer_sentences": 1,
+  "embedding_model": "Qwen/Qwen3-Embedding-8B",
+  "embedding_dimension": 4096,
+  "embedding_input_token_cap": 8192,
+  "embedding_batch_size": 16,
+  "embedding_batch_token_cap": 6000,
+  "embedding_build_token_budget": 250000,
+  "embedding_input_usd_per_million": 0.01,
+  "query_instruction": "Given a financial question, retrieve Microsoft financial passages that answer it."
+}

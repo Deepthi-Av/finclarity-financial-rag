@@ -1,0 +1,68 @@
+{
+  "corpus_id": "microsoft-fy2025-v1",
+  "refresh": "manual historical snapshot",
+  "max_selected_words": 25000,
+  "sources": [
+    {
+      "document_id": "AR25",
+      "title": "Microsoft FY2025 Annual Report",
+      "url": "https://www.microsoft.com/investor/reports/ar25/",
+      "format": "html",
+      "owner": "Microsoft Investor Relations",
+      "fiscal_year": 2025,
+      "period_end": "2025-06-30",
+      "period_note": "Includes comparative earlier years; label individual table columns.",
+      "include_sections": [
+        "Management Discussion and Analysis",
+        "Income Statements",
+        "Cash Flows Statements",
+        "Note 18 Segment Information and Geographic Data"
+      ],
+      "downloaded_at_utc": "2026-10-18T22:41:46.858984+00:00",
+      "sha256": "564154a15ac28c0f7f72f304ae26b74c29cfca9f3eafe8d59595776769d621ca",
+      "local_path": "data/raw/AR25.html",
+      "byte_count": 601259,
+      "content_type": "text/html",
+      "final_url": "https://www.microsoft.com/investor/reports/ar25/",
+      "last_modified": "Wed, 20 May 2026 18:36:04 GMT",
+      "etag": "\"0x8DEB69EA687D4C6\"",
+      "ingestion": {
+        "parser_version": "microsoft-html-v1",
+        "block_count": 314,
+        "table_count": 17,
+        "word_count": 12274
+      }
+    },
+    {
+      "document_id": "ER25Q4",
+      "title": "Microsoft FY2025 Q4 Earnings Release",
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2025-Q4/press-release-webcast",
+      "format": "html",
+      "owner": "Microsoft Investor Relations",
+      "publication_date": "2025-07-30",
+      "period_end": "2025-06-30",
+      "period_note": "Contains both three-month and twelve-month figures plus earlier comparisons.",
+      "include_sections": [
+        "Financial Summary",
+        "Business Highlights",
+        "Income Statements",
+        "Cash Flows Statements",
+        "Segment Results"
+      ],
+      "downloaded_at_utc": "2026-10-18T22:41:47.645564+00:00",
+      "sha256": "ab75aeb15a7e3f065de097de7b50cf30b0f1bd8d5765ffff72fc3669b00c85e9",
+      "local_path": "data/raw/ER25Q4.html",
+      "byte_count": 533793,
+      "content_type": "text/html",
+      "final_url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2025-Q4/press-release-webcast",
+      "last_modified": null,
+      "etag": null,
+      "ingestion": {
+        "parser_version": "microsoft-html-v1",
+        "block_count": 116,
+        "table_count": 7,
+        "word_count": 5235
+      }
+    }
+  ]
+}

@@ -1,0 +1,1085 @@
+{
+  "mode": "saved_results_only",
+  "freeze_id": "441de43d47694844",
+  "runs": [
+    {
+      "question_id": "Q02",
+      "question": "What was Microsoft's revenue for the three months ended June 30, 2025?",
+      "experiment": "A",
+      "result": {
+        "status": "answered",
+        "answer": "Microsoft's total revenue for the three months ended June 30, 2025, was $76,441 million. [ER25Q4:pressreleasecontent:a96c5b17cd11afd9]",
+        "citations": [
+          {
+            "evidence_id": "ER25Q4:pressreleasecontent:a96c5b17cd11afd9",
+            "source_title": "Microsoft FY2025 Q4 Earnings Release",
+            "section": "MICROSOFT CORPORATION INCOME STATEMENTS (In millions, except per share amounts) (Unaudited)",
+            "source_url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2025-Q4/press-release-webcast",
+            "quotes": [
+              "Three Months Ended June 30, / 2025: 76,441"
+            ],
+            "retrieved_spans": [
+              "MICROSOFT CORPORATION INCOME STATEMENTS (In millions, except per share amounts) (Unaudited). Units: (In millions, except per share amounts). Row: Revenue: / Total revenue. Three Months Ended June 30, / 2025: 76,441; Three Months Ended June 30, / 2024: 64,727; Twelve Months Ended June 30, / 2025: 281,724; Twelve Months Ended June 30, / 2024: 245,122"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "question_id": "Q02",
+      "question": "What was Microsoft's revenue for the three months ended June 30, 2025?",
+      "experiment": "B",
+      "result": {
+        "status": "answered",
+        "answer": "Microsoft's total revenue for the three months ended June 30, 2025, was $76,441 million. [ER25Q4:pressreleasecontent:a96c5b17cd11afd9]",
+        "citations": [
+          {
+            "evidence_id": "ER25Q4:pressreleasecontent:a96c5b17cd11afd9",
+            "source_title": "Microsoft FY2025 Q4 Earnings Release",
+            "section": "MICROSOFT CORPORATION INCOME STATEMENTS (In millions, except per share amounts) (Unaudited)",
+            "source_url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2025-Q4/press-release-webcast",
+            "quotes": [
+              "Three Months Ended June 30, / 2025: 76,441"
+            ],
+            "retrieved_spans": [
+              "MICROSOFT CORPORATION INCOME STATEMENTS (In millions, except per share amounts) (Unaudited). Units: (In millions, except per share amounts). Row: Revenue: / Total revenue. Three Months Ended June 30, / 2025: 76,441; Three Months Ended June 30, / 2024: 64,727; Twelve Months Ended June 30, / 2025: 281,724; Twelve Months Ended June 30, / 2024: 245,122"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "question_id": "Q02",
+      "question": "What was Microsoft's revenue for the three months ended June 30, 2025?",
+      "experiment": "C",
+      "result": {
+        "status": "answered",
+        "answer": "Microsoft's total revenue for the three months ended June 30, 2025, was $76,441 million. [ER25Q4:pressreleasecontent:a96c5b17cd11afd9]",
+        "citations": [
+          {
+            "evidence_id": "ER25Q4:pressreleasecontent:a96c5b17cd11afd9",
+            "source_title": "Microsoft FY2025 Q4 Earnings Release",
+            "section": "MICROSOFT CORPORATION INCOME STATEMENTS (In millions, except per share amounts) (Unaudited)",
+            "source_url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2025-Q4/press-release-webcast",
+            "quotes": [
+              "Three Months Ended June 30, / 2025: 76,441"
+            ],
+            "retrieved_spans": [
+              "MICROSOFT CORPORATION INCOME STATEMENTS (In millions, except per share amounts) (Unaudited). Units: (In millions, except per share amounts). Row: Revenue: / Total revenue. Three Months Ended June 30, / 2025: 76,441; Three Months Ended June 30, / 2024: 64,727; Twelve Months Ended June 30, / 2025: 281,724; Twelve Months Ended June 30, / 2024: 245,122"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "question_id": "Q03",
+      "question": "What was Microsoft's net income for fiscal year 2025?",
+      "experiment": "B",
+      "result": {
+        "status": "answered",
+        "answer": "Microsoft's net income for fiscal year 2025 was $101,832 million. [AR25:income-statements:3a130f9370911a53]\n\nThis represents a 16% increase from the net income of $88,136 million in fiscal year 2024. [AR25:discussion-analysis:21030f89130274b0]\n\nThe net income figure is consistent with the earnings release, which reported $101.8 billion for fiscal year 2025. [ER25Q4:pressreleasecontent:3bbed54e44c110e4]",
+        "citations": [
+          {
+            "evidence_id": "AR25:income-statements:3a130f9370911a53",
+            "source_title": "Microsoft FY2025 Annual Report",
+            "section": "Income Statements",
+            "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+            "quotes": [
+              "Net income. Year Ended June 30, / 2025: $101,832"
+            ],
+            "retrieved_spans": [
+              "Income Statements. Units: (In millions, except per share amounts). Row: Net income. Year Ended June 30, / 2025: $101,832; Year Ended June 30, / 2024: $88,136; Year Ended June 30, / 2023: $72,361"
+            ]
+          },
+          {
+            "evidence_id": "AR25:discussion-analysis:21030f89130274b0",
+            "source_title": "Microsoft FY2025 Annual Report",
+            "section": "Management Discussion and Analysis / SUMMARY RESULTS OF OPERATIONS",
+            "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+            "quotes": [
+              "Net income. 2025: 101,832; 2024: 88,136; Percentage Change: 16%"
+            ],
+            "retrieved_spans": [
+              "Management Discussion and Analysis / SUMMARY RESULTS OF OPERATIONS. Units: (In millions, except percentages and per share amounts). Row: Net income. 2025: 101,832; 2024: 88,136; Percentage Change: 16%"
+            ]
+          },
+          {
+            "evidence_id": "ER25Q4:pressreleasecontent:3bbed54e44c110e4",
+            "source_title": "Microsoft FY2025 Q4 Earnings Release",
+            "section": "Fiscal Year 2025 Results",
+            "source_url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2025-Q4/press-release-webcast",
+            "quotes": [
+              "Net income was $101.8 billion and increased 16%"
+            ],
+            "retrieved_spans": [
+              "· Net income was $101.8 billion and increased 16% (up 15% in constant currency)"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "question_id": "Q03",
+      "question": "What was Microsoft's net income for fiscal year 2025?",
+      "experiment": "C",
+      "result": {
+        "status": "answered",
+        "answer": "Microsoft's net income for fiscal year 2025 was $101.8 billion. [ER25Q4:pressreleasecontent:3bbed54e44c110e4]\n\nThe net income for fiscal year 2025, as reported in the annual report, was $101,832 million, which aligns with $101.8 billion. [AR25:discussion-analysis:21030f89130274b0]",
+        "citations": [
+          {
+            "evidence_id": "ER25Q4:pressreleasecontent:3bbed54e44c110e4",
+            "source_title": "Microsoft FY2025 Q4 Earnings Release",
+            "section": "Fiscal Year 2025 Results",
+            "source_url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2025-Q4/press-release-webcast",
+            "quotes": [
+              "· Net income was $101.8 billion and increased 16% (up 15% in constant currency)"
+            ],
+            "retrieved_spans": [
+              "· Net income was $101.8 billion and increased 16% (up 15% in constant currency)"
+            ]
+          },
+          {
+            "evidence_id": "AR25:discussion-analysis:21030f89130274b0",
+            "source_title": "Microsoft FY2025 Annual Report",
+            "section": "Management Discussion and Analysis / SUMMARY RESULTS OF OPERATIONS",
+            "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+            "quotes": [
+              "Management Discussion and Analysis / SUMMARY RESULTS OF OPERATIONS. Units: (In millions, except percentages and per share amounts). Row: Net income. 2025: 101,832; 2024: 88,136; Percentage Change: 16%"
+            ],
+            "retrieved_spans": [
+              "Management Discussion and Analysis / SUMMARY RESULTS OF OPERATIONS. Units: (In millions, except percentages and per share amounts). Row: Net income. 2025: 101,832; 2024: 88,136; Percentage Change: 16%"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "question_id": "Q03",
+      "question": "What was Microsoft's net income for fiscal year 2025?",
+      "experiment": "A",
+      "result": {
+        "status": "answered",
+        "answer": "Microsoft's net income for fiscal year 2025 was $101.8 billion. [ER25Q4:pressreleasecontent:3bbed54e44c110e4]\n\nThe net income for fiscal year 2025, as reported in the annual report, was $101,832 million, which is equivalent to $101.8 billion. [AR25:discussion-analysis:21030f89130274b0]\n\nThe fiscal year 2025 net income figure is based on the twelve months ended June 30, 2025. [ER25Q4:pressreleasecontent:f4b010a2cd9dca57]",
+        "citations": [
+          {
+            "evidence_id": "ER25Q4:pressreleasecontent:3bbed54e44c110e4",
+            "source_title": "Microsoft FY2025 Q4 Earnings Release",
+            "section": "Fiscal Year 2025 Results",
+            "source_url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2025-Q4/press-release-webcast",
+            "quotes": [
+              "· Net income was $101.8 billion and increased 16% (up 15% in constant currency)"
+            ],
+            "retrieved_spans": [
+              "· Net income was $101.8 billion and increased 16% (up 15% in constant currency)"
+            ]
+          },
+          {
+            "evidence_id": "AR25:discussion-analysis:21030f89130274b0",
+            "source_title": "Microsoft FY2025 Annual Report",
+            "section": "Management Discussion and Analysis / SUMMARY RESULTS OF OPERATIONS",
+            "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+            "quotes": [
+              "Management Discussion and Analysis / SUMMARY RESULTS OF OPERATIONS. Units: (In millions, except percentages and per share amounts). Row: Net income. 2025: 101,832; 2024: 88,136; Percentage Change: 16%"
+            ],
+            "retrieved_spans": [
+              "Management Discussion and Analysis / SUMMARY RESULTS OF OPERATIONS. Units: (In millions, except percentages and per share amounts). Row: Net income. 2025: 101,832; 2024: 88,136; Percentage Change: 16%"
+            ]
+          },
+          {
+            "evidence_id": "ER25Q4:pressreleasecontent:f4b010a2cd9dca57",
+            "source_title": "Microsoft FY2025 Q4 Earnings Release",
+            "section": "MICROSOFT CORPORATION INCOME STATEMENTS (In millions, except per share amounts) (Unaudited)",
+            "source_url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2025-Q4/press-release-webcast",
+            "quotes": [
+              "Twelve Months Ended June 30, / 2025: $101,832"
+            ],
+            "retrieved_spans": [
+              "MICROSOFT CORPORATION INCOME STATEMENTS (In millions, except per share amounts) (Unaudited). Units: (In millions, except per share amounts). Row: Net income. Three Months Ended June 30, / 2025: $27,233; Three Months Ended June 30, / 2024: $22,036; Twelve Months Ended June 30, / 2025: $101,832; Twelve Months Ended June 30, / 2024: $88,136"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "question_id": "Q04",
+      "question": "What was Microsoft's diluted earnings per share in fiscal 2025 Q4?",
+      "experiment": "A",
+      "result": {
+        "status": "answered",
+        "answer": "Microsoft's diluted earnings per share in fiscal 2025 Q4 was $3.65. [ER25Q4:pressreleasecontent:5fe5eb179c36901e] [ER25Q4:pressreleasecontent:c81e3b2c12de75fb]",
+        "citations": [
+          {
+            "evidence_id": "ER25Q4:pressreleasecontent:5fe5eb179c36901e",
+            "source_title": "Microsoft FY2025 Q4 Earnings Release",
+            "section": "MICROSOFT CORPORATION INCOME STATEMENTS (In millions, except per share amounts) (Unaudited)",
+            "source_url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2025-Q4/press-release-webcast",
+            "quotes": [
+              "Three Months Ended June 30, / 2025: $3.65"
+            ],
+            "retrieved_spans": [
+              "MICROSOFT CORPORATION INCOME STATEMENTS (In millions, except per share amounts) (Unaudited). Units: (In millions, except per share amounts). Row: Earnings per share: / Diluted. Three Months Ended June 30, / 2025: $3.65; Three Months Ended June 30, / 2024: $2.95; Twelve Months Ended June 30, / 2025: $13.64; Twelve Months Ended June 30, / 2024: $11.80"
+            ]
+          },
+          {
+            "evidence_id": "ER25Q4:pressreleasecontent:c81e3b2c12de75fb",
+            "source_title": "Microsoft FY2025 Q4 Earnings Release",
+            "section": "Financial Performance Constant Currency Reconciliation",
+            "source_url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2025-Q4/press-release-webcast",
+            "quotes": [
+              "Three Months Ended June 30, / Diluted Earnings per Share: $3.65"
+            ],
+            "retrieved_spans": [
+              "Financial Performance Constant Currency Reconciliation. Units: ($ in millions, except per share amounts). Row: 2025 As Reported (GAAP). Three Months Ended June 30, / Revenue: $76,441; Three Months Ended June 30, / Operating Income: $34,323; Three Months Ended June 30, / Net Income: $27,233; Three Months Ended June 30, / Diluted Earnings per Share: $3.65"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "question_id": "Q04",
+      "question": "What was Microsoft's diluted earnings per share in fiscal 2025 Q4?",
+      "experiment": "B",
+      "result": {
+        "status": "answered",
+        "answer": "Microsoft's diluted earnings per share in fiscal 2025 Q4 was $3.65. [ER25Q4:pressreleasecontent:5fe5eb179c36901e]",
+        "citations": [
+          {
+            "evidence_id": "ER25Q4:pressreleasecontent:5fe5eb179c36901e",
+            "source_title": "Microsoft FY2025 Q4 Earnings Release",
+            "section": "MICROSOFT CORPORATION INCOME STATEMENTS (In millions, except per share amounts) (Unaudited)",
+            "source_url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2025-Q4/press-release-webcast",
+            "quotes": [
+              "Diluted. Three Months Ended June 30, / 2025: $3.65"
+            ],
+            "retrieved_spans": [
+              "MICROSOFT CORPORATION INCOME STATEMENTS (In millions, except per share amounts) (Unaudited). Units: (In millions, except per share amounts). Row: Earnings per share: / Diluted. Three Months Ended June 30, / 2025: $3.65; Three Months Ended June 30, / 2024: $2.95; Twelve Months Ended June 30, / 2025: $13.64; Twelve Months Ended June 30, / 2024: $11.80"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "question_id": "Q04",
+      "question": "What was Microsoft's diluted earnings per share in fiscal 2025 Q4?",
+      "experiment": "C",
+      "result": {
+        "status": "answered",
+        "answer": "Microsoft's diluted earnings per share in fiscal 2025 Q4 was $13.64. [ER25Q4:pressreleasecontent:710c03565bcd4851]",
+        "citations": [
+          {
+            "evidence_id": "ER25Q4:pressreleasecontent:710c03565bcd4851",
+            "source_title": "Microsoft FY2025 Q4 Earnings Release",
+            "section": "Financial Performance Constant Currency Reconciliation",
+            "source_url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2025-Q4/press-release-webcast",
+            "quotes": [
+              "Twelve Months Ended June 30, / Diluted Earnings per Share: $13.64"
+            ],
+            "retrieved_spans": [
+              "Financial Performance Constant Currency Reconciliation. Units: ($ in millions, except per share amounts). Row: 2025 As Reported (GAAP). Twelve Months Ended June 30, / Revenue: $281,724; Twelve Months Ended June 30, / Operating Income: $128,528; Twelve Months Ended June 30, / Net Income: $101,832; Twelve Months Ended June 30, / Diluted Earnings per Share: $13.64"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "question_id": "Q05",
+      "question": "What was Microsoft's diluted earnings per share for the full fiscal year 2025?",
+      "experiment": "B",
+      "result": {
+        "status": "answered",
+        "answer": "Microsoft's diluted earnings per share for the full fiscal year 2025 was $13.64. [AR25:discussion-analysis:c9399919acd27877] [ER25Q4:pressreleasecontent:5fe5eb179c36901e]",
+        "citations": [
+          {
+            "evidence_id": "AR25:discussion-analysis:c9399919acd27877",
+            "source_title": "Microsoft FY2025 Annual Report",
+            "section": "Management Discussion and Analysis / SUMMARY RESULTS OF OPERATIONS",
+            "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+            "quotes": [
+              "Diluted earnings per share. 2025: 13.64; 2024: 11.80; Percentage Change: 16%"
+            ],
+            "retrieved_spans": [
+              "Management Discussion and Analysis / SUMMARY RESULTS OF OPERATIONS. Units: (In millions, except percentages and per share amounts). Row: Diluted earnings per share. 2025: 13.64; 2024: 11.80; Percentage Change: 16%"
+            ]
+          },
+          {
+            "evidence_id": "ER25Q4:pressreleasecontent:5fe5eb179c36901e",
+            "source_title": "Microsoft FY2025 Q4 Earnings Release",
+            "section": "MICROSOFT CORPORATION INCOME STATEMENTS (In millions, except per share amounts) (Unaudited)",
+            "source_url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2025-Q4/press-release-webcast",
+            "quotes": [
+              "Twelve Months Ended June 30, / 2025: $13.64; Twelve Months Ended June 30, / 2024: $11.80"
+            ],
+            "retrieved_spans": [
+              "MICROSOFT CORPORATION INCOME STATEMENTS (In millions, except per share amounts) (Unaudited). Units: (In millions, except per share amounts). Row: Earnings per share: / Diluted. Three Months Ended June 30, / 2025: $3.65; Three Months Ended June 30, / 2024: $2.95; Twelve Months Ended June 30, / 2025: $13.64; Twelve Months Ended June 30, / 2024: $11.80"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "question_id": "Q05",
+      "question": "What was Microsoft's diluted earnings per share for the full fiscal year 2025?",
+      "experiment": "C",
+      "result": {
+        "status": "answered",
+        "answer": "Microsoft's diluted earnings per share for the full fiscal year 2025 was $13.64. [ER25Q4:pressreleasecontent:343ea85ec1e5b44d]\n\nThe diluted earnings per share for the full fiscal year 2025, as reported in the annual report, is consistent with the earnings release at $13.64. [AR25:discussion-analysis:c9399919acd27877]",
+        "citations": [
+          {
+            "evidence_id": "ER25Q4:pressreleasecontent:343ea85ec1e5b44d",
+            "source_title": "Microsoft FY2025 Q4 Earnings Release",
+            "section": "Fiscal Year 2025 Results",
+            "source_url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2025-Q4/press-release-webcast",
+            "quotes": [
+              "· Diluted earnings per share was $13.64 and increased 16%"
+            ],
+            "retrieved_spans": [
+              "· Diluted earnings per share was $13.64 and increased 16%"
+            ]
+          },
+          {
+            "evidence_id": "AR25:discussion-analysis:c9399919acd27877",
+            "source_title": "Microsoft FY2025 Annual Report",
+            "section": "Management Discussion and Analysis / SUMMARY RESULTS OF OPERATIONS",
+            "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+            "quotes": [
+              "Management Discussion and Analysis / SUMMARY RESULTS OF OPERATIONS. Units: (In millions, except percentages and per share amounts). Row: Diluted earnings per share. 2025: 13.64; 2024: 11.80; Percentage Change: 16%"
+            ],
+            "retrieved_spans": [
+              "Management Discussion and Analysis / SUMMARY RESULTS OF OPERATIONS. Units: (In millions, except percentages and per share amounts). Row: Diluted earnings per share. 2025: 13.64; 2024: 11.80; Percentage Change: 16%"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "question_id": "Q05",
+      "question": "What was Microsoft's diluted earnings per share for the full fiscal year 2025?",
+      "experiment": "A",
+      "result": {
+        "status": "answered",
+        "answer": "Microsoft's diluted earnings per share for the full fiscal year 2025 was $13.64. [ER25Q4:pressreleasecontent:343ea85ec1e5b44d]\n\nThe diluted earnings per share for the full fiscal year 2025 is consistent with the income statement data in the annual report. [AR25:income-statements:f45675e8db870348]",
+        "citations": [
+          {
+            "evidence_id": "ER25Q4:pressreleasecontent:343ea85ec1e5b44d",
+            "source_title": "Microsoft FY2025 Q4 Earnings Release",
+            "section": "Fiscal Year 2025 Results",
+            "source_url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2025-Q4/press-release-webcast",
+            "quotes": [
+              "· Diluted earnings per share was $13.64 and increased 16%"
+            ],
+            "retrieved_spans": [
+              "· Diluted earnings per share was $13.64 and increased 16%"
+            ]
+          },
+          {
+            "evidence_id": "AR25:income-statements:f45675e8db870348",
+            "source_title": "Microsoft FY2025 Annual Report",
+            "section": "Income Statements",
+            "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+            "quotes": [
+              "Year Ended June 30, / 2025: $13.64"
+            ],
+            "retrieved_spans": [
+              "Income Statements. Units: (In millions, except per share amounts). Row: Earnings per share: / Diluted. Year Ended June 30, / 2025: $13.64; Year Ended June 30, / 2024: $11.80; Year Ended June 30, / 2023: $9.68"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "question_id": "Q06",
+      "question": "What annual revenue growth percentage did Microsoft report for FY2025 compared with FY2024?",
+      "experiment": "A",
+      "result": {
+        "status": "answered",
+        "answer": "Microsoft reported a 15% annual revenue growth for FY2025 compared to FY2024. [AR25:discussion-analysis:3fefd7eafef31852]\n\nThe revenue for FY2025 was $281,724 million, compared to $245,122 million in FY2024. [AR25:discussion-analysis:3fefd7eafef31852]\n\nThe 15% revenue growth was driven by growth across all segments, including a 21% increase in Intelligent Cloud revenue. [AR25:discussion-analysis:0c8745f527ff5196] [AR25:discussion-analysis:9dcaef0f5b08ace8]\n\nThe fiscal year 2025 results were reported as ending June 30, 2025, consistent with the annual reporting period. [ER25Q4:pressreleasecontent:a871189e0336c01b]",
+        "citations": [
+          {
+            "evidence_id": "AR25:discussion-analysis:3fefd7eafef31852",
+            "source_title": "Microsoft FY2025 Annual Report",
+            "section": "Management Discussion and Analysis / SUMMARY RESULTS OF OPERATIONS",
+            "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+            "quotes": [
+              "Percentage Change: 15%",
+              "2025: $281,724; 2024: $245,122"
+            ],
+            "retrieved_spans": [
+              "Management Discussion and Analysis / SUMMARY RESULTS OF OPERATIONS. Units: (In millions, except percentages and per share amounts). Row: Revenue. 2025: $281,724; 2024: $245,122; Percentage Change: 15%"
+            ]
+          },
+          {
+            "evidence_id": "AR25:discussion-analysis:0c8745f527ff5196",
+            "source_title": "Microsoft FY2025 Annual Report",
+            "section": "Management Discussion and Analysis / SUMMARY RESULTS OF OPERATIONS",
+            "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+            "quotes": [
+              "Revenue increased $36.6 billion or 15% with growth across each of our segments."
+            ],
+            "retrieved_spans": [
+              "Revenue increased $36.6 billion or 15% with growth across each of our segments."
+            ]
+          },
+          {
+            "evidence_id": "AR25:discussion-analysis:9dcaef0f5b08ace8",
+            "source_title": "Microsoft FY2025 Annual Report",
+            "section": "Management Discussion and Analysis / SEGMENT RESULTS OF OPERATIONS",
+            "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+            "quotes": [
+              "Intelligent Cloud / Revenue. 2025: $106,265; 2024: $87,464; Percentage Change: 21%"
+            ],
+            "retrieved_spans": [
+              "Management Discussion and Analysis / SEGMENT RESULTS OF OPERATIONS. Units: (In millions, except percentages). Row: Intelligent Cloud / Revenue. 2025: $106,265; 2024: $87,464; Percentage Change: 21%"
+            ]
+          },
+          {
+            "evidence_id": "ER25Q4:pressreleasecontent:a871189e0336c01b",
+            "source_title": "Microsoft FY2025 Q4 Earnings Release",
+            "section": "Fiscal Year 2025 Results",
+            "source_url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2025-Q4/press-release-webcast",
+            "quotes": [
+              "Microsoft Corp. today announced the following results for the fiscal year ended June 30, 2025"
+            ],
+            "retrieved_spans": [
+              "Microsoft Corp. today announced the following results for the fiscal year ended June 30, 2025, as compared to the corresponding period of last fiscal year:"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "question_id": "Q06",
+      "question": "What annual revenue growth percentage did Microsoft report for FY2025 compared with FY2024?",
+      "experiment": "B",
+      "result": {
+        "status": "answered",
+        "answer": "Microsoft reported a 15% annual revenue growth for FY2025 compared to FY2024. [AR25:discussion-analysis:3fefd7eafef31852]\n\nThe revenue for FY2025 was $281.7 billion, an increase from $245.1 billion in FY2024. [ER25Q4:pressreleasecontent:e38e00993f6179e1]",
+        "citations": [
+          {
+            "evidence_id": "AR25:discussion-analysis:3fefd7eafef31852",
+            "source_title": "Microsoft FY2025 Annual Report",
+            "section": "Management Discussion and Analysis / SUMMARY RESULTS OF OPERATIONS",
+            "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+            "quotes": [
+              "Row: Revenue. 2025: $281,724; 2024: $245,122; Percentage Change: 15%"
+            ],
+            "retrieved_spans": [
+              "Management Discussion and Analysis / SUMMARY RESULTS OF OPERATIONS. Units: (In millions, except percentages and per share amounts). Row: Revenue. 2025: $281,724; 2024: $245,122; Percentage Change: 15%"
+            ]
+          },
+          {
+            "evidence_id": "ER25Q4:pressreleasecontent:e38e00993f6179e1",
+            "source_title": "Microsoft FY2025 Q4 Earnings Release",
+            "section": "Fiscal Year 2025 Results",
+            "source_url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2025-Q4/press-release-webcast",
+            "quotes": [
+              "· Revenue was $281.7 billion and increased 15%"
+            ],
+            "retrieved_spans": [
+              "· Revenue was $281.7 billion and increased 15%"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "question_id": "Q06",
+      "question": "What annual revenue growth percentage did Microsoft report for FY2025 compared with FY2024?",
+      "experiment": "C",
+      "result": {
+        "status": "answered",
+        "answer": "Microsoft reported a 15% annual revenue growth for FY2025 compared with FY2024. [AR25:discussion-analysis:3fefd7eafef31852]",
+        "citations": [
+          {
+            "evidence_id": "AR25:discussion-analysis:3fefd7eafef31852",
+            "source_title": "Microsoft FY2025 Annual Report",
+            "section": "Management Discussion and Analysis / SUMMARY RESULTS OF OPERATIONS",
+            "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+            "quotes": [
+              "Revenue. 2025: $281,724; 2024: $245,122; Percentage Change: 15%"
+            ],
+            "retrieved_spans": [
+              "Management Discussion and Analysis / SUMMARY RESULTS OF OPERATIONS. Units: (In millions, except percentages and per share amounts). Row: Revenue. 2025: $281,724; 2024: $245,122; Percentage Change: 15%"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "question_id": "Q07",
+      "question": "How much annual revenue did Intelligent Cloud generate in FY2025?",
+      "experiment": "B",
+      "result": {
+        "status": "answered",
+        "answer": "Intelligent Cloud generated $106,265 million in annual revenue in FY2025. [AR25:segment-information-geo-data:c331098bc4c9a2e6]",
+        "citations": [
+          {
+            "evidence_id": "AR25:segment-information-geo-data:c331098bc4c9a2e6",
+            "source_title": "Microsoft FY2025 Annual Report",
+            "section": "Note 18 Segment Information and Geographic Data / NOTE 18 — SEGMENT INFORMATION AND GEOGRAPHIC DATA",
+            "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+            "quotes": [
+              "Row: Intelligent Cloud / Revenue. Year Ended June 30, / 2025: $106,265"
+            ],
+            "retrieved_spans": [
+              "Note 18 Segment Information and Geographic Data / NOTE 18 — SEGMENT INFORMATION AND GEOGRAPHIC DATA. Units: (In millions). Row: Intelligent Cloud / Revenue. Year Ended June 30, / 2025: $106,265; Year Ended June 30, / 2024: $87,464; Year Ended June 30, / 2023: $72,944"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "question_id": "Q07",
+      "question": "How much annual revenue did Intelligent Cloud generate in FY2025?",
+      "experiment": "C",
+      "result": {
+        "status": "answered",
+        "answer": "Intelligent Cloud generated $106,265 million in annual revenue in FY2025. [AR25:segment-information-geo-data:c331098bc4c9a2e6]",
+        "citations": [
+          {
+            "evidence_id": "AR25:segment-information-geo-data:c331098bc4c9a2e6",
+            "source_title": "Microsoft FY2025 Annual Report",
+            "section": "Note 18 Segment Information and Geographic Data / NOTE 18 — SEGMENT INFORMATION AND GEOGRAPHIC DATA",
+            "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+            "quotes": [
+              "Row: Intelligent Cloud / Revenue. Year Ended June 30, / 2025: $106,265"
+            ],
+            "retrieved_spans": [
+              "Note 18 Segment Information and Geographic Data / NOTE 18 — SEGMENT INFORMATION AND GEOGRAPHIC DATA. Units: (In millions). Row: Intelligent Cloud / Revenue. Year Ended June 30, / 2025: $106,265; Year Ended June 30, / 2024: $87,464; Year Ended June 30, / 2023: $72,944"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "question_id": "Q07",
+      "question": "How much annual revenue did Intelligent Cloud generate in FY2025?",
+      "experiment": "A",
+      "result": {
+        "status": "answered",
+        "answer": "Intelligent Cloud generated $106,265 million in annual revenue in FY2025. [AR25:segment-information-geo-data:c331098bc4c9a2e6]",
+        "citations": [
+          {
+            "evidence_id": "AR25:segment-information-geo-data:c331098bc4c9a2e6",
+            "source_title": "Microsoft FY2025 Annual Report",
+            "section": "Note 18 Segment Information and Geographic Data / NOTE 18 — SEGMENT INFORMATION AND GEOGRAPHIC DATA",
+            "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+            "quotes": [
+              "Row: Intelligent Cloud / Revenue. Year Ended June 30, / 2025: $106,265"
+            ],
+            "retrieved_spans": [
+              "Note 18 Segment Information and Geographic Data / NOTE 18 — SEGMENT INFORMATION AND GEOGRAPHIC DATA. Units: (In millions). Row: Intelligent Cloud / Revenue. Year Ended June 30, / 2025: $106,265; Year Ended June 30, / 2024: $87,464; Year Ended June 30, / 2023: $72,944"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "question_id": "Q08",
+      "question": "Which Microsoft reporting segment had the highest revenue in FY2025, and what was that revenue?",
+      "experiment": "A",
+      "result": {
+        "status": "answered",
+        "answer": "The Microsoft reporting segment with the highest revenue in FY2025 was Productivity and Business Processes, with revenue of $120,810 million. [AR25:discussion-analysis:098f5536c94b5f02]\n\nThe Intelligent Cloud segment had the second-highest revenue in FY2025, with $106,265 million. [AR25:discussion-analysis:9dcaef0f5b08ace8]\n\nThe More Personal Computing segment had $54,649 million in revenue for FY2025, which was lower than both Productivity and Business Processes and Intelligent Cloud. [AR25:discussion-analysis:f1a4ece86eb874d9]",
+        "citations": [
+          {
+            "evidence_id": "AR25:discussion-analysis:098f5536c94b5f02",
+            "source_title": "Microsoft FY2025 Annual Report",
+            "section": "Management Discussion and Analysis / SEGMENT RESULTS OF OPERATIONS",
+            "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+            "quotes": [
+              "Row: Productivity and Business Processes / Revenue. 2025: $120,810; 2024: $106,820; Percentage Change: 13%"
+            ],
+            "retrieved_spans": [
+              "Management Discussion and Analysis / SEGMENT RESULTS OF OPERATIONS. Units: (In millions, except percentages). Row: Productivity and Business Processes / Revenue. 2025: $120,810; 2024: $106,820; Percentage Change: 13%"
+            ]
+          },
+          {
+            "evidence_id": "AR25:discussion-analysis:9dcaef0f5b08ace8",
+            "source_title": "Microsoft FY2025 Annual Report",
+            "section": "Management Discussion and Analysis / SEGMENT RESULTS OF OPERATIONS",
+            "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+            "quotes": [
+              "Row: Intelligent Cloud / Revenue. 2025: $106,265; 2024: $87,464; Percentage Change: 21%"
+            ],
+            "retrieved_spans": [
+              "Management Discussion and Analysis / SEGMENT RESULTS OF OPERATIONS. Units: (In millions, except percentages). Row: Intelligent Cloud / Revenue. 2025: $106,265; 2024: $87,464; Percentage Change: 21%"
+            ]
+          },
+          {
+            "evidence_id": "AR25:discussion-analysis:f1a4ece86eb874d9",
+            "source_title": "Microsoft FY2025 Annual Report",
+            "section": "Management Discussion and Analysis / SEGMENT RESULTS OF OPERATIONS",
+            "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+            "quotes": [
+              "Row: More Personal Computing / Revenue. 2025: $54,649; 2024: $50,838; Percentage Change: 7%"
+            ],
+            "retrieved_spans": [
+              "Management Discussion and Analysis / SEGMENT RESULTS OF OPERATIONS. Units: (In millions, except percentages). Row: More Personal Computing / Revenue. 2025: $54,649; 2024: $50,838; Percentage Change: 7%"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "question_id": "Q08",
+      "question": "Which Microsoft reporting segment had the highest revenue in FY2025, and what was that revenue?",
+      "experiment": "B",
+      "result": {
+        "status": "answered",
+        "answer": "The Microsoft reporting segment with the highest revenue in FY2025 was Intelligent Cloud, with revenue of $106,265 million. [AR25:discussion-analysis:9dcaef0f5b08ace8]\n\nThe next highest segment was Productivity and Business Processes, with revenue of $120,810 million in FY2025. [AR25:discussion-analysis:098f5536c94b5f02]\n\nThe total revenue for Microsoft in FY2025 was $281,724 million, as reported in the segment information section. [AR25:segment-information-geo-data:f5a2d1609f5c8e04]",
+        "citations": [
+          {
+            "evidence_id": "AR25:discussion-analysis:9dcaef0f5b08ace8",
+            "source_title": "Microsoft FY2025 Annual Report",
+            "section": "Management Discussion and Analysis / SEGMENT RESULTS OF OPERATIONS",
+            "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+            "quotes": [
+              "Intelligent Cloud / Revenue. 2025: $106,265; 2024: $87,464; Percentage Change: 21%"
+            ],
+            "retrieved_spans": [
+              "Management Discussion and Analysis / SEGMENT RESULTS OF OPERATIONS. Units: (In millions, except percentages). Row: Intelligent Cloud / Revenue. 2025: $106,265; 2024: $87,464; Percentage Change: 21%"
+            ]
+          },
+          {
+            "evidence_id": "AR25:discussion-analysis:098f5536c94b5f02",
+            "source_title": "Microsoft FY2025 Annual Report",
+            "section": "Management Discussion and Analysis / SEGMENT RESULTS OF OPERATIONS",
+            "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+            "quotes": [
+              "Productivity and Business Processes / Revenue. 2025: $120,810; 2024: $106,820; Percentage Change: 13%"
+            ],
+            "retrieved_spans": [
+              "Management Discussion and Analysis / SEGMENT RESULTS OF OPERATIONS. Units: (In millions, except percentages). Row: Productivity and Business Processes / Revenue. 2025: $120,810; 2024: $106,820; Percentage Change: 13%"
+            ]
+          },
+          {
+            "evidence_id": "AR25:segment-information-geo-data:f5a2d1609f5c8e04",
+            "source_title": "Microsoft FY2025 Annual Report",
+            "section": "Note 18 Segment Information and Geographic Data / NOTE 18 — SEGMENT INFORMATION AND GEOGRAPHIC DATA",
+            "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+            "quotes": [
+              "Total / Revenue. Year Ended June 30, / 2025: $281,724"
+            ],
+            "retrieved_spans": [
+              "Note 18 Segment Information and Geographic Data / NOTE 18 — SEGMENT INFORMATION AND GEOGRAPHIC DATA. Units: (In millions). Row: Total / Revenue. Year Ended June 30, / 2025: $281,724; Year Ended June 30, / 2024: $245,122; Year Ended June 30, / 2023: $211,915"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "question_id": "Q08",
+      "question": "Which Microsoft reporting segment had the highest revenue in FY2025, and what was that revenue?",
+      "experiment": "C",
+      "result": {
+        "status": "answered",
+        "answer": "The Microsoft reporting segment with the highest revenue in FY2025 was Microsoft Cloud, with revenue of $168.9 billion. [AR25:segment-information-geo-data:26f1737f2becfdf1]\n\nMicrosoft Cloud revenue in FY2025 was reported as $168.9 billion, derived from the aggregation of Microsoft 365 Commercial products and cloud services ($87.767 billion), Server products and cloud services ($98.435 billion), and other components including LinkedIn and Dynamics 365. [AR25:segment-information-geo-data:b41d25756658c510] [AR25:segment-information-geo-data:bffc3b44a4524e58] [AR25:segment-information-geo-data:26f1737f2becfdf1]",
+        "citations": [
+          {
+            "evidence_id": "AR25:segment-information-geo-data:26f1737f2becfdf1",
+            "source_title": "Microsoft FY2025 Annual Report",
+            "section": "Note 18 Segment Information and Geographic Data / NOTE 18 — SEGMENT INFORMATION AND GEOGRAPHIC DATA",
+            "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+            "quotes": [
+              "Our Microsoft Cloud revenue, which includes Microsoft 365 Commercial cloud, Azure and other cloud services, the commercial portion of LinkedIn, and Dynamics 365, was $168.9 billion, $137.7 billion, and $111.6 billion in fiscal years 2025, 2024, and 2023, respectively.",
+              "These amounts are included in Microsoft 365 Commercial products and cloud services, Server products and cloud services, LinkedIn, and Dynamics products and cloud services in the table above."
+            ],
+            "retrieved_spans": [
+              "Our Microsoft Cloud revenue, which includes Microsoft 365 Commercial cloud, Azure and other cloud services, the commercial portion of LinkedIn, and Dynamics 365, was $168.9 billion, $137.7 billion, and $111.6 billion in fiscal years 2025, 2024, and 2023, respectively.",
+              "These amounts are included in Microsoft 365 Commercial products and cloud services, Server products and cloud services, LinkedIn, and Dynamics products and cloud services in the table above."
+            ]
+          },
+          {
+            "evidence_id": "AR25:segment-information-geo-data:b41d25756658c510",
+            "source_title": "Microsoft FY2025 Annual Report",
+            "section": "Note 18 Segment Information and Geographic Data / NOTE 18 — SEGMENT INFORMATION AND GEOGRAPHIC DATA",
+            "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+            "quotes": [
+              "Year Ended June 30, / 2025: $98,435; Year Ended June 30, / 2024: $79,828; Year Ended June 30, / 2023: $65,007"
+            ],
+            "retrieved_spans": [
+              "Note 18 Segment Information and Geographic Data / NOTE 18 — SEGMENT INFORMATION AND GEOGRAPHIC DATA. Units: (In millions). Row: Server products and cloud services. Year Ended June 30, / 2025: $98,435; Year Ended June 30, / 2024: $79,828; Year Ended June 30, / 2023: $65,007"
+            ]
+          },
+          {
+            "evidence_id": "AR25:segment-information-geo-data:bffc3b44a4524e58",
+            "source_title": "Microsoft FY2025 Annual Report",
+            "section": "Note 18 Segment Information and Geographic Data / NOTE 18 — SEGMENT INFORMATION AND GEOGRAPHIC DATA",
+            "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+            "quotes": [
+              "Year Ended June 30, / 2025: 87,767; Year Ended June 30, / 2024: 76,969; Year Ended June 30, / 2023: 66,949"
+            ],
+            "retrieved_spans": [
+              "Note 18 Segment Information and Geographic Data / NOTE 18 — SEGMENT INFORMATION AND GEOGRAPHIC DATA. Units: (In millions). Row: Microsoft 365 Commercial products and cloud services. Year Ended June 30, / 2025: 87,767; Year Ended June 30, / 2024: 76,969; Year Ended June 30, / 2023: 66,949"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "question_id": "Q10",
+      "question": "What annual Azure revenue milestone and growth rate did Microsoft disclose in its FY2025 Q4 earnings release?",
+      "experiment": "B",
+      "result": {
+        "status": "answered",
+        "answer": "Microsoft disclosed that Azure revenue surpassed $75 billion annually in FY2025, representing a 34% year-over-year growth rate. [ER25Q4:pressreleasecontent:41b42dc276c88aef]",
+        "citations": [
+          {
+            "evidence_id": "ER25Q4:pressreleasecontent:41b42dc276c88aef",
+            "source_title": "Microsoft FY2025 Q4 Earnings Release",
+            "section": "Financial Summary",
+            "source_url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2025-Q4/press-release-webcast",
+            "quotes": [
+              "this year, Azure surpassed $75 billion in revenue, up 34 percent, driven by growth across all workloads."
+            ],
+            "retrieved_spans": [
+              "“We’re innovating across the tech stack to help customers adapt and grow in this new era, and this year, Azure surpassed $75 billion in revenue, up 34 percent, driven by growth across all workloads.”"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "question_id": "Q10",
+      "question": "What annual Azure revenue milestone and growth rate did Microsoft disclose in its FY2025 Q4 earnings release?",
+      "experiment": "C",
+      "result": {
+        "status": "answered",
+        "answer": "Microsoft disclosed that Azure revenue surpassed $75 billion annually in FY2025, representing a 34% year-over-year growth. [ER25Q4:pressreleasecontent:41b42dc276c88aef]\n\nThe 34% growth in Azure revenue was driven by demand across all workloads and was consistent with the annual growth rate reported in the Management Discussion and Analysis section of the FY2025 Annual Report. [AR25:discussion-analysis:da144da534222b3e]",
+        "citations": [
+          {
+            "evidence_id": "ER25Q4:pressreleasecontent:41b42dc276c88aef",
+            "source_title": "Microsoft FY2025 Q4 Earnings Release",
+            "section": "Financial Summary",
+            "source_url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2025-Q4/press-release-webcast",
+            "quotes": [
+              "this year, Azure surpassed $75 billion in revenue, up 34 percent, driven by growth across all workloads."
+            ],
+            "retrieved_spans": [
+              "“We’re innovating across the tech stack to help customers adapt and grow in this new era, and this year, Azure surpassed $75 billion in revenue, up 34 percent, driven by growth across all workloads.”"
+            ]
+          },
+          {
+            "evidence_id": "AR25:discussion-analysis:da144da534222b3e",
+            "source_title": "Microsoft FY2025 Annual Report",
+            "section": "Management Discussion and Analysis / SEGMENT RESULTS OF OPERATIONS",
+            "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+            "quotes": [
+              "Azure and other cloud services revenue grew 34% driven by demand for our portfolio of services."
+            ],
+            "retrieved_spans": [
+              "Azure and other cloud services revenue grew 34% driven by demand for our portfolio of services."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "question_id": "Q10",
+      "question": "What annual Azure revenue milestone and growth rate did Microsoft disclose in its FY2025 Q4 earnings release?",
+      "experiment": "A",
+      "result": {
+        "status": "answered",
+        "answer": "In its FY2025 Q4 earnings release, Microsoft disclosed that Azure revenue surpassed $75 billion in annual revenue, up 34 percent year-over-year. [ER25Q4:pressreleasecontent:41b42dc276c88aef]",
+        "citations": [
+          {
+            "evidence_id": "ER25Q4:pressreleasecontent:41b42dc276c88aef",
+            "source_title": "Microsoft FY2025 Q4 Earnings Release",
+            "section": "Financial Summary",
+            "source_url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2025-Q4/press-release-webcast",
+            "quotes": [
+              "this year, Azure surpassed $75 billion in revenue, up 34 percent, driven by growth across all workloads."
+            ],
+            "retrieved_spans": [
+              "“We’re innovating across the tech stack to help customers adapt and grow in this new era, and this year, Azure surpassed $75 billion in revenue, up 34 percent, driven by growth across all workloads.”"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "question_id": "Q11",
+      "question": "How do Microsoft's FY2025 full-year revenue and FY2025 Q4 revenue differ? Give both figures with their periods.",
+      "experiment": "A",
+      "result": {
+        "status": "answered",
+        "answer": "Microsoft's FY2025 full-year revenue was $281.7 billion, as reported in the fiscal year ended June 30, 2025. [ER25Q4:pressreleasecontent:e38e00993f6179e1] [AR25:discussion-analysis:3fefd7eafef31852]\n\nMicrosoft's FY2025 Q4 revenue was $76.441 billion, calculated as the sum of Product revenue ($17.136 billion) and Service and other revenue ($59.305 billion) for the three months ended June 30, 2025. [ER25Q4:pressreleasecontent:efcf79be3d45acce] [ER25Q4:pressreleasecontent:645de3243c9951a7]",
+        "citations": [
+          {
+            "evidence_id": "ER25Q4:pressreleasecontent:e38e00993f6179e1",
+            "source_title": "Microsoft FY2025 Q4 Earnings Release",
+            "section": "Fiscal Year 2025 Results",
+            "source_url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2025-Q4/press-release-webcast",
+            "quotes": [
+              "· Revenue was $281.7 billion and increased 15%"
+            ],
+            "retrieved_spans": [
+              "· Revenue was $281.7 billion and increased 15%"
+            ]
+          },
+          {
+            "evidence_id": "AR25:discussion-analysis:3fefd7eafef31852",
+            "source_title": "Microsoft FY2025 Annual Report",
+            "section": "Management Discussion and Analysis / SUMMARY RESULTS OF OPERATIONS",
+            "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+            "quotes": [
+              "2025: $281,724"
+            ],
+            "retrieved_spans": [
+              "Management Discussion and Analysis / SUMMARY RESULTS OF OPERATIONS. Units: (In millions, except percentages and per share amounts). Row: Revenue. 2025: $281,724; 2024: $245,122; Percentage Change: 15%"
+            ]
+          },
+          {
+            "evidence_id": "ER25Q4:pressreleasecontent:efcf79be3d45acce",
+            "source_title": "Microsoft FY2025 Q4 Earnings Release",
+            "section": "MICROSOFT CORPORATION INCOME STATEMENTS (In millions, except per share amounts) (Unaudited)",
+            "source_url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2025-Q4/press-release-webcast",
+            "quotes": [
+              "Three Months Ended June 30, / 2025: $17,136"
+            ],
+            "retrieved_spans": [
+              "MICROSOFT CORPORATION INCOME STATEMENTS (In millions, except per share amounts) (Unaudited). Units: (In millions, except per share amounts). Row: Revenue: / Product. Three Months Ended June 30, / 2025: $17,136; Three Months Ended June 30, / 2024: $13,217; Twelve Months Ended June 30, / 2025: $63,946; Twelve Months Ended June 30, / 2024: $64,773"
+            ]
+          },
+          {
+            "evidence_id": "ER25Q4:pressreleasecontent:645de3243c9951a7",
+            "source_title": "Microsoft FY2025 Q4 Earnings Release",
+            "section": "MICROSOFT CORPORATION INCOME STATEMENTS (In millions, except per share amounts) (Unaudited)",
+            "source_url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2025-Q4/press-release-webcast",
+            "quotes": [
+              "Three Months Ended June 30, / 2025: 59,305"
+            ],
+            "retrieved_spans": [
+              "MICROSOFT CORPORATION INCOME STATEMENTS (In millions, except per share amounts) (Unaudited). Units: (In millions, except per share amounts). Row: Revenue: / Service and other. Three Months Ended June 30, / 2025: 59,305; Three Months Ended June 30, / 2024: 51,510; Twelve Months Ended June 30, / 2025: 217,778; Twelve Months Ended June 30, / 2024: 180,349"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "question_id": "Q11",
+      "question": "How do Microsoft's FY2025 full-year revenue and FY2025 Q4 revenue differ? Give both figures with their periods.",
+      "experiment": "B",
+      "result": {
+        "status": "answered",
+        "answer": "Microsoft's FY2025 full-year revenue was $281.7 billion, as reported in the fiscal year ended June 30, 2025. [ER25Q4:pressreleasecontent:e38e00993f6179e1]\n\nMicrosoft's FY2025 Q4 revenue was $76.4 billion, for the quarter ended June 30, 2025. [ER25Q4:pressreleasecontent:1cab84ea39a1cd77]",
+        "citations": [
+          {
+            "evidence_id": "ER25Q4:pressreleasecontent:e38e00993f6179e1",
+            "source_title": "Microsoft FY2025 Q4 Earnings Release",
+            "section": "Fiscal Year 2025 Results",
+            "source_url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2025-Q4/press-release-webcast",
+            "quotes": [
+              "· Revenue was $281.7 billion and increased 15%"
+            ],
+            "retrieved_spans": [
+              "· Revenue was $281.7 billion and increased 15%"
+            ]
+          },
+          {
+            "evidence_id": "ER25Q4:pressreleasecontent:1cab84ea39a1cd77",
+            "source_title": "Microsoft FY2025 Q4 Earnings Release",
+            "section": "Financial Summary",
+            "source_url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2025-Q4/press-release-webcast",
+            "quotes": [
+              "· Revenue was $76.4 billion and increased 18% (up 17% in constant currency)"
+            ],
+            "retrieved_spans": [
+              "· Revenue was $76.4 billion and increased 18% (up 17% in constant currency)"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "question_id": "Q11",
+      "question": "How do Microsoft's FY2025 full-year revenue and FY2025 Q4 revenue differ? Give both figures with their periods.",
+      "experiment": "C",
+      "result": {
+        "status": "answered",
+        "answer": "Microsoft's FY2025 full-year revenue was $281.7 billion for the twelve months ended June 30, 2025. [ER25Q4:pressreleasecontent:e38e00993f6179e1]\n\nMicrosoft's FY2025 Q4 revenue was $76.4 billion for the three months ended June 30, 2025. [ER25Q4:pressreleasecontent:c81e3b2c12de75fb]",
+        "citations": [
+          {
+            "evidence_id": "ER25Q4:pressreleasecontent:e38e00993f6179e1",
+            "source_title": "Microsoft FY2025 Q4 Earnings Release",
+            "section": "Fiscal Year 2025 Results",
+            "source_url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2025-Q4/press-release-webcast",
+            "quotes": [
+              "Revenue was $281.7 billion and increased 15%"
+            ],
+            "retrieved_spans": [
+              "· Revenue was $281.7 billion and increased 15%"
+            ]
+          },
+          {
+            "evidence_id": "ER25Q4:pressreleasecontent:c81e3b2c12de75fb",
+            "source_title": "Microsoft FY2025 Q4 Earnings Release",
+            "section": "Financial Performance Constant Currency Reconciliation",
+            "source_url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2025-Q4/press-release-webcast",
+            "quotes": [
+              "Three Months Ended June 30, / Revenue: $76,441"
+            ],
+            "retrieved_spans": [
+              "Financial Performance Constant Currency Reconciliation. Units: ($ in millions, except per share amounts). Row: 2025 As Reported (GAAP). Three Months Ended June 30, / Revenue: $76,441; Three Months Ended June 30, / Operating Income: $34,323; Three Months Ended June 30, / Net Income: $27,233; Three Months Ended June 30, / Diluted Earnings per Share: $3.65"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "question_id": "Q12",
+      "question": "What was Microsoft's operating income for FY2025 Q4?",
+      "experiment": "B",
+      "result": {
+        "status": "answered",
+        "answer": "Microsoft's operating income for FY2025 Q4 was $34.3 billion. [ER25Q4:pressreleasecontent:50805152e001fecd]",
+        "citations": [
+          {
+            "evidence_id": "ER25Q4:pressreleasecontent:50805152e001fecd",
+            "source_title": "Microsoft FY2025 Q4 Earnings Release",
+            "section": "Financial Summary",
+            "source_url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2025-Q4/press-release-webcast",
+            "quotes": [
+              "· Operating income was $34.3 billion and increased 23% (up 22% in constant currency)"
+            ],
+            "retrieved_spans": [
+              "· Operating income was $34.3 billion and increased 23% (up 22% in constant currency)"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "question_id": "Q12",
+      "question": "What was Microsoft's operating income for FY2025 Q4?",
+      "experiment": "C",
+      "result": {
+        "status": "answered",
+        "answer": "Microsoft's operating income for FY2025 Q4 was $34.3 billion. [ER25Q4:pressreleasecontent:50805152e001fecd]",
+        "citations": [
+          {
+            "evidence_id": "ER25Q4:pressreleasecontent:50805152e001fecd",
+            "source_title": "Microsoft FY2025 Q4 Earnings Release",
+            "section": "Financial Summary",
+            "source_url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2025-Q4/press-release-webcast",
+            "quotes": [
+              "· Operating income was $34.3 billion and increased 23% (up 22% in constant currency)"
+            ],
+            "retrieved_spans": [
+              "· Operating income was $34.3 billion and increased 23% (up 22% in constant currency)"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "question_id": "Q12",
+      "question": "What was Microsoft's operating income for FY2025 Q4?",
+      "experiment": "A",
+      "result": {
+        "status": "answered",
+        "answer": "Microsoft's operating income for FY2025 Q4 was $34,323 million. [ER25Q4:pressreleasecontent:93973d8e67ed1c6c]",
+        "citations": [
+          {
+            "evidence_id": "ER25Q4:pressreleasecontent:93973d8e67ed1c6c",
+            "source_title": "Microsoft FY2025 Q4 Earnings Release",
+            "section": "SEGMENT REVENUE AND OPERATING INCOME (In millions) (Unaudited)",
+            "source_url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2025-Q4/press-release-webcast",
+            "quotes": [
+              "Three Months Ended June 30, / 2025: $34,323"
+            ],
+            "retrieved_spans": [
+              "SEGMENT REVENUE AND OPERATING INCOME (In millions) (Unaudited). Units: (In millions). Row: Operating Income / Total. Three Months Ended June 30, / 2025: $34,323; Three Months Ended June 30, / 2024: $27,925; Twelve Months Ended June 30, / 2025: $128,528; Twelve Months Ended June 30, / 2024: $109,433"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "question_id": "Q14",
+      "question": "What was Apple's total revenue for fiscal year 2025?",
+      "experiment": "A",
+      "result": {
+        "status": "insufficient_evidence",
+        "answer": "The selected Microsoft FY2025 documents do not contain enough evidence to answer this question. They cannot provide live prices or actual results for later periods.",
+        "citations": []
+      }
+    },
+    {
+      "question_id": "Q14",
+      "question": "What was Apple's total revenue for fiscal year 2025?",
+      "experiment": "B",
+      "result": {
+        "status": "insufficient_evidence",
+        "answer": "The selected Microsoft FY2025 documents do not contain enough evidence to answer this question. They cannot provide live prices or actual results for later periods.",
+        "citations": []
+      }
+    },
+    {
+      "question_id": "Q14",
+      "question": "What was Apple's total revenue for fiscal year 2025?",
+      "experiment": "C",
+      "result": {
+        "status": "insufficient_evidence",
+        "answer": "The selected Microsoft FY2025 documents do not contain enough evidence to answer this question. They cannot provide live prices or actual results for later periods.",
+        "citations": []
+      }
+    },
+    {
+      "question_id": "Q15",
+      "question": "What was Microsoft's actual total revenue for fiscal year 2027?",
+      "experiment": "B",
+      "result": {
+        "status": "insufficient_evidence",
+        "answer": "The selected Microsoft FY2025 documents do not contain enough evidence to answer this question. They cannot provide live prices or actual results for later periods.",
+        "citations": []
+      }
+    },
+    {
+      "question_id": "Q15",
+      "question": "What was Microsoft's actual total revenue for fiscal year 2027?",
+      "experiment": "C",
+      "result": {
+        "status": "insufficient_evidence",
+        "answer": "The selected Microsoft FY2025 documents do not contain enough evidence to answer this question. They cannot provide live prices or actual results for later periods.",
+        "citations": []
+      }
+    },
+    {
+      "question_id": "Q15",
+      "question": "What was Microsoft's actual total revenue for fiscal year 2027?",
+      "experiment": "A",
+      "result": {
+        "status": "insufficient_evidence",
+        "answer": "The selected Microsoft FY2025 documents do not contain enough evidence to answer this question. They cannot provide live prices or actual results for later periods.",
+        "citations": []
+      }
+    }
+  ],
+  "summary": {
+    "A": {
+      "requested_answer_correct": 10,
+      "strict_citation_support_pass": 9,
+      "correct_refusals": 2,
+      "answerable_cases": 10,
+      "unsupported_cases": 2,
+      "faithfulness": 1.0
+    },
+    "B": {
+      "requested_answer_correct": 9,
+      "strict_citation_support_pass": 8,
+      "correct_refusals": 2,
+      "answerable_cases": 10,
+      "unsupported_cases": 2,
+      "faithfulness": 0.9666666666666667
+    },
+    "C": {
+      "requested_answer_correct": 8,
+      "strict_citation_support_pass": 7,
+      "correct_refusals": 2,
+      "answerable_cases": 10,
+      "unsupported_cases": 2,
+      "faithfulness": 0.9714285714285714
+    }
+  }
+}

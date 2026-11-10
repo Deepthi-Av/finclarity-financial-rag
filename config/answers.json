@@ -1,0 +1,16 @@
+{
+  "version": "answers-v1",
+  "chat_model": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "rerank_model": "bge-reranker-v2-m3",
+  "candidate_count": 10,
+  "final_passages": 3,
+  "context_token_cap": 2400,
+  "question_character_cap": 1000,
+  "generation_input_byte_cap": 16000,
+  "generation_output_token_cap": 1200,
+  "generation_total_token_budget": 1000000,
+  "generation_call_budget": 100,
+  "rerank_call_budget": 100,
+  "input_usd_per_million": 0.10,
+  "output_usd_per_million": 0.30
+}
